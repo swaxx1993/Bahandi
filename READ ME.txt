@@ -1,0 +1,13 @@
+to access the admin side of the system using localhost do this
+
+localhost/thesis/admin
+admin account-  username:admin        password:admin
+supplier account:username:jce        password:admin1
+Employee account: username: querty	password:querty
+
+if you want to access the index (public view) using loclhost do this
+
+localhost/thesis
+
+costumer account: username: swaxx password: swaxx
+
